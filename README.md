@@ -6,14 +6,13 @@
 
 ---
 
-# 🚀 About Me
+# 🚀 Sobre mi
 
 - 🎓 Estudiante de Ingeniería en Informática
 - 💻 Enfocado en desarrollo Full Stack
 - ⚙️ Automatización de procesos y sistemas
 - 🌎 Desde Chile
 - 📚 Aprendiendo constantemente nuevas tecnologías
-- 🎮 Interesado en desarrollo web y servidores FiveM
 
 ---
 
@@ -41,6 +40,4 @@
 
 ---
 
-<p align="center">
-⭐ Gracias por visitar mi perfil
-</p>
+

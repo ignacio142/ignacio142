@@ -1,23 +1,23 @@
 <h1 align="center">👋 Hey, I'm Ignacio Corral</h1>
 
 <p align="center">
-💻 Full Stack Developer • ⚙️ Automatización • 🗄️ SQL
+💻 Desarrollador Full Stack • ⚙️ Automatización • 🗄️ SQL y Bases de Datos
 </p>
 
 ---
 
-# 🚀 Sobre mi
+# 🚀 Sobre mí
 
--🎓 Estudiante de Ingeniería en Informática y Telecomunicaciones, con mención en Automatización.
-- 💻 Enfocado en desarrollo Full Stack
-- ⚙️ Especialización en automatización de procesos y sistemas
-- 🤖 Interesado en IA, asistentes virtuales y automatización
-- 🌎 Desde Chile
-- 📚 Aprendiendo constantemente nuevas tecnologías
+- 🎓 Estudiante de Ingeniería en Informática y Telecomunicaciones, con mención en Automatización.
+- 💻 Enfocado en el desarrollo Full Stack.
+- ⚙️ Apasionado por la automatización de procesos y la integración de sistemas.
+- 🤖 Interesado en Inteligencia Artificial, asistentes virtuales y automatización.
+- 🌎 Desde Chile.
+- 📚 Aprendiendo constantemente nuevas tecnologías y metodologías de desarrollo.
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tecnologías
 
 ## Frontend
 
@@ -25,7 +25,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
-## Backend & Programming
+## Backend y Programación
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
@@ -34,21 +34,22 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
 
-## Databases & Tools
+## Bases de Datos y Herramientas
 
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp)
 
 ---
 
 # 🚀 Actualmente
 
-- 🤖 Creando asistentes virtuales estilo J.A.R.V.I.S.
-- 💻 Desarrollando proyectos Full Stack
-- 🔥 Mejorando habilidades en backend y arquitectura
+- 🤖 Creando asistentes virtuales inspirados en J.A.R.V.I.S.
+- 💻 Desarrollando proyectos Full Stack.
+- 🔥 Mejorando mis habilidades en backend y arquitectura de software.
+- ⚙️ Explorando automatización e inteligencia artificial.
 
 ---
 
@@ -56,5 +57,3 @@
 
 - 📧 iga.corral@duocuc.cl
 - 💬 Discord: 『𝕴𝖌𝖓𝖆𝖈𝖎𝖔.𝕮𝕽』
-
----

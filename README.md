@@ -1,31 +1,40 @@
-<h1 align="center">👋 Hey, I'm Ignacio Corral</h1>
+<h1 align="center">👋 Hola, soy Ignacio Corral</h1>
 
 <p align="center">
-💻 Desarrollador Full Stack • ⚙️ Automatización • 🗄️ SQL y Bases de Datos
+💻 Desarrollo de Software • ⚙️ Automatización • 🤖 Inteligencia Artificial
+</p>
+
+<p align="center">
+🎓 Estudiante de Ingeniería en Informática y Telecomunicaciones, mención en Automatización
 </p>
 
 ---
 
 # 🚀 Sobre mí
 
-- 🎓 Estudiante de Ingeniería en Informática y Telecomunicaciones, con mención en Automatización.
-- 💻 Enfocado en el desarrollo Full Stack.
-- ⚙️ Apasionado por la automatización de procesos y la integración de sistemas.
-- 🤖 Interesado en Inteligencia Artificial y asistentes virtuales.
-- 🌎 Desde Chile.
-- 📚 Aprendiendo constantemente nuevas tecnologías y metodologías de desarrollo.
+Soy estudiante de Ingeniería en Informática y Telecomunicaciones con mención en Automatización, apasionado por el desarrollo de software, la inteligencia artificial y la creación de soluciones tecnológicas que aporten valor real.
+
+Actualmente me encuentro desarrollando proyectos personales enfocados en automatización, asistentes virtuales, plataformas web y comercio electrónico, buscando fortalecer constantemente mis conocimientos en arquitectura de software, backend, bases de datos e integración de sistemas.
+
+- 🎓 Ingeniería en Informática y Telecomunicaciones.
+- ⚙️ Especialización en Automatización.
+- 💻 Desarrollo Full Stack.
+- 🤖 Interés en Inteligencia Artificial y Asistentes Virtuales.
+- 🗄️ Gestión y diseño de Bases de Datos.
+- 🌎 Chile.
+- 📚 Aprendizaje continuo y mejora constante.
 
 ---
 
 # 🛠️ Tecnologías
 
-## Frontend
+### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
-## Backend y Programación
+### Backend y Programación
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
@@ -34,7 +43,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
 
-## Bases de Datos y Herramientas
+### Bases de Datos y Herramientas
 
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
@@ -44,12 +53,38 @@
 
 ---
 
-# 🚀 Actualmente
+# 🚀 Proyectos en Desarrollo
 
-- 🤖 Creando asistente virtual inspirados en J.A.R.V.I.S de Iron Man.
-- 💻 Desarrollando proyectos independientes para pequeñas pymes o empresas.
-- 🔥 Mejorando mis habilidades en backend y arquitectura de software.
-- ⚙️ Explorando la inteligencia artificial constantemente.
+### 🤖 J.A.R.V.I.S.ir
+Asistente virtual local inspirado en J.A.R.V.I.S., enfocado en inteligencia artificial, automatización de tareas, reconocimiento de voz y asistencia personal.
+
+### 🐾 Vets por el Mundo
+Plataforma web orientada al ámbito veterinario, diseñada para centralizar información, recursos y servicios relacionados con el cuidado animal.
+
+### 🛒 Munai Store Online
+Proyecto de comercio electrónico enfocado en ofrecer una experiencia moderna, intuitiva y escalable para la venta de productos en línea.
+
+---
+
+# 🎯 Objetivos
+
+- Fortalecer mis habilidades en desarrollo backend.
+- Profundizar en Inteligencia Artificial y Automatización.
+- Desarrollar proyectos con impacto real.
+- Mejorar mis conocimientos en arquitectura de software.
+- Aprender nuevas tecnologías y metodologías de desarrollo.
+
+---
+
+# 📈 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ignacio142&show_icons=true&theme=dark" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ignacio142&theme=dark" alt="GitHub Streak"/>
+</p>
 
 ---
 
@@ -57,3 +92,9 @@
 
 - 📧 iga.corral@duocuc.cl
 - 💬 Discord: 『𝕴𝖌𝖓𝖆𝖈𝖎𝖔.𝕮𝕽』
+
+---
+
+<p align="center">
+🚀 Siempre aprendiendo, construyendo y mejorando.
+</p>

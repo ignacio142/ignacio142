@@ -8,7 +8,7 @@
 
 # 🚀 Sobre mi
 
-🎓 Estudiante de Ingeniería en Informática y Telecomunicaciones, con mención en Automatización.
+-🎓 Estudiante de Ingeniería en Informática y Telecomunicaciones, con mención en Automatización.
 - 💻 Enfocado en desarrollo Full Stack
 - ⚙️ Especialización en automatización de procesos y sistemas
 - 🤖 Interesado en IA, asistentes virtuales y automatización

@@ -11,7 +11,7 @@
 - 🎓 Estudiante de Ingeniería en Informática y Telecomunicaciones, con mención en Automatización.
 - 💻 Enfocado en el desarrollo Full Stack.
 - ⚙️ Apasionado por la automatización de procesos y la integración de sistemas.
-- 🤖 Interesado en Inteligencia Artificial, asistentes virtuales y automatización.
+- 🤖 Interesado en Inteligencia Artificial y asistentes virtuales.
 - 🌎 Desde Chile.
 - 📚 Aprendiendo constantemente nuevas tecnologías y metodologías de desarrollo.
 
@@ -46,10 +46,10 @@
 
 # 🚀 Actualmente
 
-- 🤖 Creando asistentes virtuales inspirados en J.A.R.V.I.S.
-- 💻 Desarrollando proyectos Full Stack.
+- 🤖 Creando asistente virtual inspirados en J.A.R.V.I.S de Iron Man.
+- 💻 Desarrollando proyetos independiente para pequeñas pymes o empresas.
 - 🔥 Mejorando mis habilidades en backend y arquitectura de software.
-- ⚙️ Explorando automatización e inteligencia artificial.
+- ⚙️ Explorando en inteligencia artificial constantemente.
 
 ---
 

@@ -47,9 +47,9 @@
 # 🚀 Actualmente
 
 - 🤖 Creando asistente virtual inspirados en J.A.R.V.I.S de Iron Man.
-- 💻 Desarrollando proyetos independiente para pequeñas pymes o empresas.
+- 💻 Desarrollando proyectos independientes para pequeñas pymes o empresas.
 - 🔥 Mejorando mis habilidades en backend y arquitectura de software.
-- ⚙️ Explorando en inteligencia artificial constantemente.
+- ⚙️ Explorando la inteligencia artificial constantemente.
 
 ---
 

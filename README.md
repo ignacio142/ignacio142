@@ -90,7 +90,7 @@ Proyecto de comercio electrónico enfocado en ofrecer una experiencia moderna, i
 
 # 📫 Contacto
 
-- 📧 iga.corral@duocuc.cl
+- 📧 nachocorral33@gmail.com
 - 💬 Discord: 『𝕴𝖌𝖓𝖆𝖈𝖎𝖔.𝕮𝕽』
 
 ---

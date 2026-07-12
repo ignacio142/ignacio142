@@ -1,100 +1,145 @@
-<h1 align="center">👋 Hola, soy Ignacio Corral</h1>
+<h1 align="center">👋 ¡Hola! Soy Ignacio Corral</h1>
 
 <p align="center">
-💻 Desarrollo de Software • ⚙️ Automatización • 🤖 Inteligencia Artificial
+  <strong>Backend Developer • Automatización • Inteligencia Artificial</strong>
 </p>
 
 <p align="center">
-🎓 Estudiante de Ingeniería en Informática y Telecomunicaciones, mención en Automatización
+Estudiante de Ingeniería en Informática y Telecomunicaciones<br>
+Mención en Automatización • Duoc UC 🇨🇱
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ignacio142&label=Visitas&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-# 🚀 Sobre mí
+# 💻 Sobre mí
 
-Soy estudiante de Ingeniería en Informática y Telecomunicaciones con mención en Automatización, apasionado por el desarrollo de software, la inteligencia artificial y la creación de soluciones tecnológicas que aporten valor real.
+Soy estudiante de Ingeniería en Informática y Telecomunicaciones con mención en Automatización en Duoc UC, Chile.
 
-Actualmente me encuentro desarrollando proyectos personales enfocados en automatización, asistentes virtuales, plataformas web y comercio electrónico, buscando fortalecer constantemente mis conocimientos en arquitectura de software, backend, bases de datos e integración de sistemas.
+Me apasiona el desarrollo backend, la automatización de procesos y la inteligencia artificial. Disfruto creando aplicaciones, bots y herramientas que resuelvan problemas reales mediante software.
 
-- 🎓 Ingeniería en Informática y Telecomunicaciones.
-- ⚙️ Especialización en Automatización.
-- 💻 Desarrollo Full Stack.
-- 🤖 Interés en Inteligencia Artificial y Asistentes Virtuales.
-- 🗄️ Gestión y diseño de Bases de Datos.
-- 🌎 Chile.
-- 📚 Aprendizaje continuo y mejora constante.
+Actualmente continúo perfeccionando mis habilidades en desarrollo de software, bases de datos, arquitectura de aplicaciones y servicios en la nube, desarrollando proyectos personales que me permiten aprender nuevas tecnologías y buenas prácticas.
 
 ---
 
-# 🛠️ Tecnologías
+# 🚀 Tecnologías
 
-### Frontend
+## Lenguajes
 
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+<p>
 
-### Backend y Programación
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,cpp,js,html,css,mysql,bash"/>
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin)
-![SQL](https://img.shields.io/badge/SQL-darkblue?style=for-the-badge&logo=mysql)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
+</p>
 
-### Bases de Datos y Herramientas
+## Herramientas
 
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp)
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,sqlite"/>
+
+</p>
+
+Actualmente también trabajo con:
+
+- Discord.py
+- SQLite
+- UML
+- Google Cloud Platform
+- GitHub Desktop
+- APIs REST
 
 ---
 
-# 🚀 Proyectos en Desarrollo
+# 🚀 Proyectos Destacados
 
-### 🤖 J.A.R.V.I.S.ir
-Asistente virtual local inspirado en J.A.R.V.I.S., enfocado en inteligencia artificial, automatización de tareas, reconocimiento de voz y asistencia personal.
+## 🤖 Discord Bot RPG
 
-### 🐾 Vets por el Mundo
-Plataforma web orientada al ámbito veterinario, diseñada para centralizar información, recursos y servicios relacionados con el cuidado animal.
+Bot desarrollado completamente en Python para Discord.
 
-### 🛒 Munai Store Online
-Proyecto de comercio electrónico enfocado en ofrecer una experiencia moderna, intuitiva y escalable para la venta de productos en línea.
+### Características
+
+- ⚔️ Sistema RPG
+- 🧙 Personajes
+- 🛡️ Combate
+- 💰 Economía
+- 🎵 Reproducción de música desde YouTube
+- 🗄️ Base de datos SQLite
+- ⚙️ Sistema modular mediante Cogs
+
+---
+
+## 🤖 J.A.R.V.I.S.
+
+Asistente virtual local inspirado en J.A.R.V.I.S., enfocado en automatización de tareas, reconocimiento de voz e inteligencia artificial.
+
+---
+
+## 🛒 Munai Store Online
+
+Proyecto de comercio electrónico moderno orientado a ofrecer una plataforma escalable para la venta de productos.
+
+---
+
+## 🐾 Vets por el Mundo
+
+Plataforma web desarrollada para centralizar información y recursos relacionados con el ámbito veterinario.
+
+---
+
+# 📚 Actualmente aprendiendo
+
+- Arquitectura de Software
+- APIs REST
+- Inteligencia Artificial
+- Automatización
+- Cloud Computing
+- Docker
+- Buenas prácticas de desarrollo
+
+---
+
+# 📈 Estadísticas
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ignacio142&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignacio142&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ignacio142&theme=tokyonight"/>
+
+</p>
 
 ---
 
 # 🎯 Objetivos
 
-- Fortalecer mis habilidades en desarrollo backend.
-- Profundizar en Inteligencia Artificial y Automatización.
-- Desarrollar proyectos con impacto real.
-- Mejorar mis conocimientos en arquitectura de software.
-- Aprender nuevas tecnologías y metodologías de desarrollo.
-
----
-
-# 📈 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ignacio142&show_icons=true&theme=dark" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ignacio142&theme=dark" alt="GitHub Streak"/>
-</p>
+- Desarrollar aplicaciones escalables.
+- Especializarme en desarrollo Backend con Python.
+- Integrar Inteligencia Artificial en proyectos reales.
+- Aprender tecnologías Cloud y DevOps.
+- Contribuir a proyectos Open Source.
 
 ---
 
 # 📫 Contacto
 
-- 📧 nachocorral33@gmail.com
-- 💬 Discord: 『𝕴𝖌𝖓𝖆𝖈𝖎𝖔.𝕮𝕽』
+📧 **Correo:** **nachocorral33@gmail.com**
+
+💻 **GitHub:** https://github.com/ignacio142
 
 ---
 
 <p align="center">
-🚀 Siempre aprendiendo, construyendo y mejorando.
+
+<i>"Siempre aprendiendo, construyendo y mejorando."</i>
+
 </p>

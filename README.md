@@ -1,45 +1,58 @@
-# ¡Hola! Soy Ignacio Corral 👋
-
-Estudiante de Ingeniería en Informática y Telecomunicaciones en Duoc UC 🇨🇱. 
-Apasionado por la automatización, el desarrollo de software y el aprendizaje constante.
-
-<br>
-
----
-
-### 🛠️ Lo que estoy usando
-*Tecnologías con las que he trabajado en mis proyectos:*
+<h1 align="center">👋 ¡Hola! Soy Ignacio Corral</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,git,vscode,docker,linux" />
+  <strong>Backend Developer • Automatización • Inteligencia Artificial</strong>
 </p>
 
-<br>
+<p align="center">
+  <a href="https://ignacio142.github.io/Portafolio/"><strong>🚀 Visita mi Portafolio Web</strong></a>
+</p>
+
+<p align="center">
+  Estudiante de Ingeniería en Informática y Telecomunicaciones (Duoc UC) 🇨🇱
+</p>
 
 ---
 
-### 🚀 Mis proyectos
-Aquí es donde aplico lo que voy aprendiendo:
+### 🛠️ Tech Stack & Skills
 
-* **[Now-Playing-Widget](https://github.com/ignacio142/Now-Playing-Widget)**: Un widget de escritorio hecho en Python para visualizar música en tiempo real.
-* *(Aquí iré sumando más proyectos a medida que los desarrolle...)*
-
-<br>
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Lenguajes** | `Python` `C++` `JavaScript` `Kotlin` `Bash` |
+| **Backend & IA** | `FastAPI` `Discord.py` `Anthropic API` `NLP` |
+| **Data & Cloud** | `SQLite` `PostgreSQL` `BigQuery` `GCP` `Docker` |
+| **Tools** | `Git` `VS Code` `Postman` `UML` |
 
 ---
 
-### 📈 Mi progreso
-*Un registro visual de lo que voy construyendo día a día:*
+### 📂 Proyectos Destacados
+
+*   **[Discord Bot RPG](https://github.com/ignacio142/NOMBRE_REPO)**: Bot modular en Python enfocado en sistemas económicos, combate y persistencia de datos (SQLite).
+*   **[J.A.R.V.I.S.](https://github.com/ignacio142/NOMBRE_REPO)**: Asistente virtual local. Integración con LLMs para automatización de tareas y procesamiento de voz.
+*   **[Microservicio NLP](https://github.com/ignacio142/NOMBRE_REPO)**: API RESTful construida con FastAPI, containerizada con Docker para despliegue en la nube.
+*   **[Munai Store](https://github.com/ignacio142/NOMBRE_REPO)**: E-commerce escalable, enfocado en optimización de flujo y experiencia de usuario.
+
+---
+
+### 📈 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ignacio142&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignacio142&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ignacio142&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-📬 **¿Quieres contactarme?**
-Puedes escribirme a **nachocorral33@gmail.com** o visitar mi [Portafolio Web](https://ignacio142.github.io/Portafolio/).
+### 📫 Contacto
 
-_Siempre buscando el siguiente reto._
+*   📧 **Correo:** nachocorral33@gmail.com
+*   💻 **GitHub:** [ignacio142](https://github.com/ignacio142)
+*   🌐 **Portafolio:** [ignacio142.github.io/Portafolio/](https://ignacio142.github.io/Portafolio/)
+
+<p align="center">
+<i>"Siempre aprendiendo, construyendo y mejorando."</i>
+</p>

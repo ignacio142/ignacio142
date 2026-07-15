@@ -1,58 +1,41 @@
-<h1 align="center">👋 ¡Hola! Soy Ignacio Corral</h1>
+🛠️ Tech Stack & Skills
 
-<p align="center">
-  <strong>Backend Developer • Automatización • Inteligencia Artificial</strong>
-</p>
+Categoría
 
-<p align="center">
-  <a href="https://ignacio142.github.io/Portafolio/"><strong>🚀 Visita mi Portafolio Web</strong></a>
-</p>
+Tecnologías
 
-<p align="center">
-  Estudiante de Ingeniería en Informática y Telecomunicaciones (Duoc UC) 🇨🇱
-</p>
+Lenguajes
 
----
+Python C++ JavaScript Kotlin Bash
 
-### 🛠️ Tech Stack & Skills
+Backend & IA
 
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Lenguajes** | `Python` `C++` `JavaScript` `Kotlin` `Bash` |
-| **Backend & IA** | `FastAPI` `Discord.py` `Anthropic API` `NLP` |
-| **Data & Cloud** | `SQLite` `PostgreSQL` `BigQuery` `GCP` `Docker` |
-| **Tools** | `Git` `VS Code` `Postman` `UML` |
+FastAPI Discord.py Anthropic API NLP
 
----
+Data & Cloud
 
-### 📂 Proyectos Destacados
+SQLite PostgreSQL BigQuery GCP Docker
 
-*   **[Discord Bot RPG](https://github.com/ignacio142/NOMBRE_REPO)**: Bot modular en Python enfocado en sistemas económicos, combate y persistencia de datos (SQLite).
-*   **[J.A.R.V.I.S.](https://github.com/ignacio142/NOMBRE_REPO)**: Asistente virtual local. Integración con LLMs para automatización de tareas y procesamiento de voz.
-*   **[Microservicio NLP](https://github.com/ignacio142/NOMBRE_REPO)**: API RESTful construida con FastAPI, containerizada con Docker para despliegue en la nube.
-*   **[Munai Store](https://github.com/ignacio142/NOMBRE_REPO)**: E-commerce escalable, enfocado en optimización de flujo y experiencia de usuario.
+Tools
 
----
+Git VS Code Postman UML
 
-### 📈 Stats
+📂 Proyectos Destacados
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ignacio142&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignacio142&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+Discord Bot RPG: Bot modular en Python enfocado en sistemas económicos, combate y persistencia de datos (SQLite).
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ignacio142&theme=tokyonight&hide_border=true" />
-</p>
+J.A.R.V.I.S.: Asistente virtual local. Integración con LLMs para automatización de tareas y procesamiento de voz.
 
----
+Microservicio NLP: API RESTful construida con FastAPI, containerizada con Docker para despliegue en la nube.
 
-### 📫 Contacto
+Munai Store: E-commerce escalable, enfocado en optimización de flujo y experiencia de usuario.
 
-*   📧 **Correo:** nachocorral33@gmail.com
-*   💻 **GitHub:** [ignacio142](https://github.com/ignacio142)
-*   🌐 **Portafolio:** [ignacio142.github.io/Portafolio/](https://ignacio142.github.io/Portafolio/)
+📈 Stats
 
-<p align="center">
-<i>"Siempre aprendiendo, construyendo y mejorando."</i>
-</p>
+📫 Contacto
+
+📧 Correo: nachocorral33@gmail.com
+
+💻 GitHub: ignacio142
+
+🌐 Portafolio: ignacio142.github.io/Portafolio/

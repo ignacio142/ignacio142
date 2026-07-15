@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy Ignacio Corral</h1>
 
 <p align="center">
-  <strong>Backend Developer • Automatización • Inteligencia Artificial</strong>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Backend+Developer;Automatización;Inteligencia+Artificial" />
 </p>
 
 <p align="center">
@@ -52,6 +52,10 @@
 *   📧 **Correo:** nachocorral33@gmail.com
 *   💻 **GitHub:** [ignacio142](https://github.com/ignacio142)
 *   🌐 **Portafolio:** [ignacio142.github.io/Portafolio/](https://ignacio142.github.io/Portafolio/)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ignacio142&repo=Now-Playing-Widget&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
 <i>"Siempre aprendiendo, construyendo y mejorando."</i>

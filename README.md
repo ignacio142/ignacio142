@@ -1,58 +1,47 @@
-<h1 align="center">👋 ¡Hola! Soy Ignacio Corral</h1>
+<div align="center">
+
+# ⚡ Ignacio Corral ⚡
+### _"La curiosidad es el código fuente de mi existencia"_
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&lines=Transformando+ideas+en+código;Automatizando+el+caos;Arquitecto+de+Soluciones+Backend)](https://git.io/typing-svg)
+
+---
+
+### 🌐 Mi Ecosistema Digital
+_Donde ocurre la magia_
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Backend+Developer;Automatización;Inteligencia+Artificial" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://ignacio142.github.io/Portafolio/"><strong>🚀 Visita mi Portafolio Web</strong></a>
-</p>
-
-<p align="center">
-  Estudiante de Ingeniería en Informática y Telecomunicaciones (Duoc UC) 🇨🇱
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,kotlin,fastapi,postgres,docker,git,vscode,linux" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🚀 Proyecto Insignia
+_Más que código, una experiencia interactiva_
 
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Lenguajes** | `Python` `C++` `JavaScript` `Kotlin` `Bash` |
-| **Backend & IA** | `FastAPI` `Discord.py` `Anthropic API` `NLP` |
-| **Data & Cloud** | `SQLite` `PostgreSQL` `BigQuery` `GCP` `Docker` |
-| **Tools** | `Git` `VS Code` `Postman` `UML` |
+[![Now Playing Widget](https://img.shields.io/badge/Widget-Now%20Playing-232323?style=for-the-badge&logo=spotify&logoColor=1DB954)](https://github.com/ignacio142/Now-Playing-Widget)
 
----
-
-### 📂 Proyectos Destacados
-
-*   **[Discord Bot RPG](https://github.com/ignacio142/NOMBRE_REPO)**: Bot modular en Python enfocado en sistemas económicos, combate y persistencia de datos (SQLite).
-*   **[J.A.R.V.I.S.](https://github.com/ignacio142/NOMBRE_REPO)**: Asistente virtual local. Integración con LLMs para automatización de tareas y procesamiento de voz.
-*   **[Microservicio NLP](https://github.com/ignacio142/NOMBRE_REPO)**: API RESTful construida con FastAPI, containerizada con Docker para despliegue en la nube.
-*   **[Munai Store](https://github.com/ignacio142/NOMBRE_REPO)**: E-commerce escalable, enfocado en optimización de flujo y experiencia de usuario.
+> [!TIP]
+> **Ahora mismo estoy construyendo:** Una herramienta nativa de Windows que redefine la forma en que interactuamos con nuestra música. ¡Mira el repositorio para ver cómo lo hice!
 
 ---
 
-### 📈 Stats
+### 📊 El Pulso de mi Código
+_Mi consistencia habla por mí_
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ignacio142&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignacio142&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ignacio142&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ignacio142&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignacio142&layout=compact&theme=dracula&hide_border=true" />
 </p>
 
 ---
 
-### 📫 Contacto
+### 🧠 Estado Mental
+`> sudo apt-get install conocimiento`
+`> status: compilando nuevas ideas...`
 
-*   📧 **Correo:** nachocorral33@gmail.com
-*   💻 **GitHub:** [ignacio142](https://github.com/ignacio142)
-*   🌐 **Portafolio:** [ignacio142.github.io/Portafolio/](https://ignacio142.github.io/Portafolio/)
+📬 **¿Quieres conectar?** [Escríbeme un correo](mailto:nachocorral33@gmail.com) o visita mi [Portafolio](https://ignacio142.github.io/Portafolio/).
 
-<p align="center">
-<i>"Siempre aprendiendo, construyendo y mejorando."</i>
-</p>
+---
+<sub>_Diseñado para impresionar. Construido para durar._</sub>
+</div>

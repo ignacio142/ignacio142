@@ -57,6 +57,4 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ignacio142&repo=Now-Playing-Widget&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-<i>"Siempre aprendiendo, construyendo y mejorando."</i>
-</p>
+
